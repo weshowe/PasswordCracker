@@ -2,9 +2,6 @@
 #define _TOOLBOX_H_
 
 #include <stdbool.h>
-/**
- * My shitty library.
- */
 
 void clearSTDIN(); // Clears the STDIN by eating chars one at a time.
 
