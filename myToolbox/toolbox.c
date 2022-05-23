@@ -1,10 +1,3 @@
-/*
- * toolbox.c
- *
- *  Created on: Sep. 10, 2019
- *      Author: icarus
- */
-
 #include <stdio.h>
 #include "toolbox.h"
 #include <string.h>
